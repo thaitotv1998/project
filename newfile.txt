@@ -7,3 +7,5 @@ Nội dung máy 1:
 
 Nội dung máy 2:
 -cdef
+
+Nội dung mới ở máy 2: hihi

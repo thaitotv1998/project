@@ -9,3 +9,4 @@ Nội dung máy 2:
 -cdef
 
 Nội dung mới ở máy 2: haha
+Nội dung mởi ở máy 2: hihi

@@ -1,2 +1,3 @@
 nội dung mới
 máy 2 thêm nội dung 
+nội dung ở server

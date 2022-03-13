@@ -2,3 +2,5 @@ nội dung mới
 nội dung ở server
 
 sdkahfskjaf
+Nội dung máy 2:
+-cdef
